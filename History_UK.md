@@ -141,6 +141,37 @@ Despite its challenges, the Plantagenet dynasty left a lasting impact on English
 
 </details>
 
+<details>
+<summary>List the kings of the Plantagenet dynasty with their quotes. </summary>
+
+The Plantagenet dynasty was a long-ruling dynasty that ruled England from 1154 to 1485. Here is a list of the Plantagenet kings of England and some of their famous quotes:
+
+1. Henry II (r. 1154-1189) - "Who will rid me of this troublesome priest?" (referring to Thomas Becket, the Archbishop of Canterbury, who was later murdered)
+1. Richard the Lionheart (r. 1189-1199) - "God grant me the serenity to accept the things I cannot change, the courage to change the things I can, and the wisdom to know the difference." (often attributed to Richard, although there is no direct historical evidence for this)
+1. John (r. 1199-1216) - "I am not a king, but the slave of the universe." (John was often depicted as a weak and ineffective ruler, and this quote reflects his own self-perception)
+1. Henry III (r. 1216-1272) - "If we have found grace in thy sight, show us a sign of thy favour, that those who hate us may see it and be put to shame." (from the famous "Edward the Confessor's Crown" prayer)
+1. Edward I (r. 1272-1307) - "I am come to see for myself and to speak for myself." (Edward was known for his personal involvement in government, and this quote reflects his desire to be a hands-on ruler)
+1. Edward II (r. 1307-1327) - "I know my lord the king well enough; he will never do what he says." (this quote, spoken by a contemporary chronicler, reflects Edward's reputation for being indecisive and ineffective)
+1. Edward III (r. 1327-1377) - "It is not for kings to keep faith." (this quote, spoken by Edward himself, reflects his willingness to use deceit and broken promises as a political tool)
+1. Richard II (r. 1377-1399) - "For God's sake, let us sit upon the ground and tell sad stories of the death of kings." (from Shakespeare's play "Richard II")
+
+The Plantagenet dynasty was one of the most influential in English history, and the reigns of these kings saw significant changes and developments in politics, culture, and society. The quotes attributed to these rulers provide a glimpse into their personalities and legacies.
+
+</details>
+
+
+<details>
+<summary>Who was the most admired king of the Plantagenet dynasty?　and why ?</summary>
+
+It is difficult to determine who was the most admired king of the Plantagenet dynasty, as opinions on this matter can vary greatly depending on historical perspective and personal bias. However, some of the kings from this dynasty who are often considered to be the most admired include:
+
+1. Richard the Lionheart (r. 1189-1199): Richard is often remembered as a great military leader and a brave warrior. He is best known for his leadership during the Third Crusade, where he was widely praised for his courage and prowess in battle.
+1. Edward I (r. 1272-1307): Edward I is often regarded as one of the greatest English kings of the Middle Ages. He is credited with strengthening the power of the monarchy and consolidating English rule over Wales and Scotland.
+1. Edward III (r. 1327-1377): Edward III is often considered to be one of the most successful English kings of the Middle Ages. He was a charismatic and effective leader who transformed England into a major military power and led the country to several victories in the Hundred Years' War.
+
+Ultimately, the admiration and legacy of these kings (and others from the Plantagenet dynasty) will depend on a variety of factors, including their political, military, and personal achievements, as well as their impact on subsequent generations.
+
+</details>
 
 
 <details>
@@ -165,6 +196,27 @@ Magna Carta also established the idea that the king could not raise taxes or mak
 Overall, Magna Carta marked a shift towards a more limited monarchy and a more representative and democratic form of government, and its ideas and principles have had a lasting impact on the development of Western political and legal systems.
 
 </details>
+
+
+<details>
+<summary>What kind of things are written in the Magna Carta?</summary>
+
+The Magna Carta, or the Great Charter, is a document that was signed by King John of England in 1215. It is considered one of the most important legal documents in the history of England and is widely regarded as a cornerstone of modern democracy.
+
+The Magna Carta contains 63 clauses that address various issues of medieval English life and law, including the rights of free men, the rights of the Church, and the limitations on royal power. Some of the key provisions of the Magna Carta include:
+
+Clause 39: No freeman shall be taken or imprisoned, or be disseised of his freehold, or liberties, or free customs, or be outlawed, or exiled, or any otherwise destroyed; nor will we proceed against or prosecute him, except by the lawful judgment of his peers, or by the law of the land.
+
+Clause 40: To no one will we sell, to no one will we deny or delay right or justice.
+
+Clause 61: Since, moreover, for God and the improvement of our kingdom and for the better allaying of the discord arisen between us and our barons, we have granted all these concessions, desirous that they should enjoy them in complete and firm endurance forever, we give and grant to them the underwritten security, namely, that the barons may elect twenty-five barons of the kingdom, whom they wish, who shall be bound with all their might, to observe, hold, and cause to be observed, the peace and liberties we have granted and confirmed to them by this our present Charter, so that if we, or our justiciar, or our bailiffs or any one of our officers, shall in anything be at fault towards anyone, or shall have broken any one of the articles of this peace or of this security, and the offense be notified to four of the said twenty-five barons, the said four barons shall repair to us (or our justiciar, if we are out of the realm) and, laying the transgression before us, petition that we cause that to be redressed without delay. And if we shall not have corrected the transgression (or, in the event of our being out of the realm, if our justiciar shall not have corrected it) within forty days, counting from the time it has been intimated to us (or to our justiciar, if we should be out of the realm), the said four barons shall refer that case to the rest of the twenty-five barons, who may distrain upon and assail us in every way possible, with the support of the whole community of the land, by seizing our castles, lands, possessions, or anything else saving only our own person and those of the queen and our children, until, in their opinion, amends shall have been made; and when amends have been made, they shall obey us as before.
+
+These provisions and others in the Magna Carta were revolutionary for their time, as they placed limits on the power of the monarch and established the idea of individual rights and freedoms. While many of the provisions of the Magna Carta have since been modified or abolished, its significance as a cornerstone of Western democracy continues to be recognized and celebrated.
+
+
+
+</details>
+
 
 <details>
 <summary>Why did the monarch tolerate the Magna Carta?</summary>
