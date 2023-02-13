@@ -282,6 +282,39 @@ Overall, the British political system has evolved significantly since the creati
 
 </details>
 
+<details>
+<summary>Rap battle between John and Baron</summary>
+John:
+I'm the King, I'm the law, I'm the one who's in control
+You can't deny it, I'm the one who holds the throne
+My power is absolute, and you must obey my will
+You can't challenge me, so just accept your fate and be still
+
+Baron:
+You may be the King, but I'm the one with the power
+My wealth and influence are greater than yours by the hour
+I'm not afraid to stand up to you and fight for my rights
+You can't ignore me, so let's make a deal and end this fight
+
+John:
+I'm the King, and I won't be swayed by your words
+My authority is absolute, and I will not be deterred
+You may have wealth and influence, but I have the law
+So accept your fate and bow down to me, or face the consequences of your flaw.
+
+Baron:
+I understand your power, but I won't be cowed
+My wealth and influence are too great to be ignored
+I'm not afraid to stand up to you and fight for my rights
+So let's make a deal and end this fight, before it takes flight.
+
+Outro:
+The King and the Baron, they made a deal
+A compromise that would make them both feel
+That justice was served and their rights were respected
+And so the two of them, their quarrels were ended.
+</details>
+
 # the Hundred Years War
 
 <details>
@@ -338,9 +371,6 @@ Disadvantages of feudalism include:
 1. Centralization of power: In feudalism, the king or queen had limited power, as the lords and nobles held significant influence and power. This decentralization of power made it difficult to enforce laws and maintain order, and contributed to the instability of the system.
 
 Overall, while feudalism provided order and stability in a dangerous and uncertain world, it was also marked by inequality, lack of mobility, and limited opportunities for progress and innovation.
-
-
-
 
 
 </details>
@@ -416,6 +446,37 @@ The Hundred Years War was a series of conflicts fought between England and Franc
 
 Taken together, these factors made it difficult for either England or France to achieve a decisive victory, which contributed to the length of the Hundred Years War. Despite its length and complexity, the war had a significant impact on the political and cultural landscape of both England and France, and it remains an important event in the history of both countries.
 
+</details>
+<details>
+<summary>A rap battle explaining France and England in the Hundred Years' War</summary>
+
+England:
+
+I'm the king of the isles, I'm the one they call Edward
+My armies are strong, and my will is unyielding
+My knights are brave and my archers are skilled
+My country's been fighting for a hundred years still
+
+France:
+
+I'm the king of the mainland, I'm Philip the Fair
+My country is strong, and my people are aware
+My knights are brave and my archers are true
+My country's been fighting for a hundred years too
+
+England:
+
+I've got the longbow, it's a weapon of choice
+My archers can shoot from a great distance and rejoice
+My knights are strong, and my soldiers are brave
+My country's been fighting for a hundred years to save
+
+France:
+
+I've got the crossbow, it's a weapon of might
+My archers can shoot from a great distance and fight
+My knights are strong, and my soldiers are brave
+My country's been fighting for a hundred years to save
 </details>
 
 # the Wars of the Roses
@@ -499,5 +560,33 @@ Ultimately, the Tudor victory in the War of the Roses marked the end of the Midd
 </details>
 
 <details>
-<summary>X?</summary>
-Y</details>
+<summary> A rap battle explaining the Wars of the Roses</summary>
+
+House of York:
+
+I'm the House of York, and I'm here to rock
+My white rose is here to show that I'm the top
+My claim to the throne is strong, and I won't stop
+Until I take my rightful place at the top
+
+House of Lancaster:
+
+My red rose is here to show that I'm the one
+My claim to the throne is just as strong
+I won't back down, and I'll fight 'til I'm done
+Until I take my rightful place at the throne
+
+House of York:
+
+You may have a claim, but I'm the rightful king
+My white rose will show that I'm the one to bring
+The peace and prosperity that this kingdom needs
+And I'll make sure it's done with all due speed
+
+House of Lancaster:
+
+You may have a claim, but I'm the rightful king
+My red rose will show that I'm the one to bring
+The justice and fairness that this kingdom needs
+And I'll make sure it's done with all due speed
+</details>
