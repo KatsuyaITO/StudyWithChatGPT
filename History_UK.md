@@ -84,6 +84,24 @@ All of these factors combined to create the conditions for the Norman Conquest o
 
 <details>
 <summary>
+Why did the Anglo-Saxon kingdom decline?
+</summary>
+The decline of the Anglo-Saxon kingdom was a complex process that was influenced by a number of factors. Some of the most significant reasons for the decline of the Anglo-Saxon kingdom include:
+
+1. Viking raids and invasions: The Viking raids and invasions that took place in the 9th and 10th centuries were a major factor in the decline of the Anglo-Saxon kingdom. The Vikings disrupted trade, pillaged and burned settlements, and created political instability, which weakened the power and influence of the Anglo-Saxon king.
+1. Political fragmentation: The Anglo-Saxon kingdom was divided into many small kingdoms, each ruled by a king. This fragmented political structure made it difficult for the Anglo-Saxons to mount a unified defense against external threats, such as the Vikings.
+1. Economic decline: The decline of the Anglo-Saxon economy was another important factor in the decline of the kingdom. This was due in part to the disruption caused by the Viking raids and invasions, as well as to changes in trade patterns and a decline in agricultural production.
+1. Instability and civil war: The Anglo-Saxon kingdom was plagued by political instability and civil war, as rival factions and powerful nobles competed for power and influence. This internal conflict weakened the kingdom and made it more vulnerable to external threats.
+1. Influence of the Church: The Church was a major player in Anglo-Saxon society, and its power and influence grew over time. The Church became a center of wealth and influence, and the bishops and abbots who held lands and ruled over their own territories became increasingly powerful. This fragmented the political structure of the kingdom and contributed to its decline.
+
+All of these factors combined to create the conditions for the decline of the Anglo-Saxon kingdom. By the time of the Norman Conquest in 1066, the Anglo-Saxon state was in a state of political and military decline, which made it easier for the Norman nobles to invade and conquer England.
+</details>
+
+
+
+
+<details>
+<summary>
 What are the similarities and differences between Anglo-Saxon England and Norman England?
 </summary>
 
